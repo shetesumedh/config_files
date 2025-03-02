@@ -1,0 +1,55 @@
+[font]
+size = 12.0
+
+[font.normal]
+#family = "JetBrainsMono Nerd Font"
+family = "FiraCode Nerd Font"
+#family = "SourceCodeVF, Heavy"
+style = "bold"
+
+#[font.bold]
+#family = "JetBrainsMono Nerd Font"
+#style = "bold"
+
+
+
+[window]
+opacity = 0.7
+
+[window.padding]
+x = 15
+y = 15
+
+[selection]
+save_to_clipboard = true
+
+[colors.primary]
+background = "#1E1E2E"  # Darker background for contrast
+foreground = "#dddddd"  # Bright foreground for pop
+
+[colors.normal]
+black = "#585B70"
+red = "#F35B78"
+green = "#46d361"
+yellow = "#F9E2AF"
+blue = "#7900FA"
+magenta = "#CBA6F7"
+cyan = "#54E2D5"
+white = "#A6ADC8"
+
+#[colors.bright]
+#[colors.normal]
+#black   = "#373b41"
+#red     = "#ff3334"
+#green   = "#5fd002"
+#yellow  = "#f0c674"
+#blue    = "#8100fe"
+#magenta = "#b294bb"
+#cyan    = "#8abeb7"
+#white   = "#ffffff"
+
+
+[font.offset]
+x = 1
+y = 4  # Adjust this for better text separation
+
