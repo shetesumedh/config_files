@@ -12,7 +12,7 @@ The following applications will be installed (if not already) and configured:
 - 🐟 **Fish** → New Fish shell configuration
 - 📦 **Pacman** → Updated `/etc/pacman.conf`
 
-## 📸 Screenshots
+## 📸 Screenshots (Before and After)
 Here are some previews of the configurations in action:
 
 - **Alacritty:**  
